@@ -1,0 +1,11 @@
+{
+  "source": "finwise_loan_applications.csv",
+  "rows_read": 1000,
+  "rows_after_validation": 1000,
+  "missing_columns": [],
+  "dropped_rows_by_reason": {
+    "null_required_field": 0,
+    "out_of_range_value": 0
+  },
+  "duplicate_ids_removed": 0
+}
